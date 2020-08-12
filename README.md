@@ -2,7 +2,7 @@
 
 Dependencies 
 
-Node 
-Canvas-Sketch CLI
-ThreeJS 
+1) Node 
+2) Canvas-Sketch CLI
+3) ThreeJS 
 
